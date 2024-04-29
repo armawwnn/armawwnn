@@ -14,4 +14,4 @@
 
 ## Get in Touch
 
-- Email: [Your Email Address](mailto:sadeghi.ali.1999@gmail.com)
+- Email: [sadeghi.ali.1999@gmail.com](mailto:sadeghi.ali.1999@gmail.com)
