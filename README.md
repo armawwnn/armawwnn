@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=armawwnn)
+
 [![Github](https://img.shields.io/github/followers/armawwnn?label=Follow&style=social)](https://github.com/armawwnn)
 
 
